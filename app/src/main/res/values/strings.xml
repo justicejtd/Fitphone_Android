@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FitPhoneSM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Weekly report</string>
+    <string name="unlock_count">Unlock count</string>
+    <string name="usage_hours">Usage hours</string>
+    <string name="usageLevel">UsageLevel</string>
+    <string name="status">Status</string>
+    <string name="check_out_your_daily_phone_usage">Check out your daily phone usage</string>
+    <string name="enter_your_fontys_email">Enter your Fontys email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="kisjes">kisjes</string>
+    <string name="login">Login</string>
+    <string name="herm">herm</string>
+    <string name="login_image">loginImage</string>
+    <string name="total_usage_hours">Usage hours</string>
+    <string name="destroyed">Destroyed</string>
+    <string name="stressed">Stressed</string>
+    <string name="tired">tired</string>
+    <string name="happy">happy</string>
+</resources>

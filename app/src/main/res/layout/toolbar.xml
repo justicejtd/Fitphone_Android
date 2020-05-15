@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:elevation="4dp"
+    android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Weekly report"
+    android:textSize="32dp"
+    android:textColor="#FFFFFF"
+    android:gravity="center"
+    />
+</androidx.appcompat.widget.Toolbar>
